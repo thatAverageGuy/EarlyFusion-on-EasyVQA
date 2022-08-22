@@ -10,6 +10,6 @@ This repository contains the streamlit demo for the Episode 1 of Vision Language
 
 > Demo: [Host Link](https://mohityogesh44-earlyfusion-on-easyvqa-app-dfqz6l.streamlitapp.com/)
 
-**test_samples** directory contains some images to interact with demo. Their corresponding questions are in **questions.txt**. For anyone who doesn't know what the model is about and what is it doing, pick up the images from the directory and playaround with questions.
+**test_samples** directory contains some images to interact with demo. Their corresponding questions are in **questions.txt**. For anyone who has no idea what this is all about, just pick up the images and questions from the directory and play around.
 
 **Note:The model demonstrated here is EarlyFusion one from the video.**
