@@ -1,0 +1,5 @@
+torch
+pillow
+streamlit
+transformers
+numpy
