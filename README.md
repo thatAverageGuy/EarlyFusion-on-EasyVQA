@@ -1,6 +1,6 @@
 # EarlyFusion-on-EasyVQA
 
-This repository contains the streamlit demo for the Episode 1 of Vision Language Modelling Series by "Donkey Stereotype by PrithviDa".
+This repository contains the streamlit demo for the Episode 1 of Vision Language Modelling Series by "Donkey Stereotype by PrithiviDa".
 
 > Youtube: [Video Link](https://www.youtube.com/watch?v=aGZWjz_K_rg)
 
