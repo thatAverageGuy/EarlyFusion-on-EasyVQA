@@ -8,4 +8,6 @@ This repository contains the streamlit demo for the Episode 1 of Vision Language
 
 > Dataset: [Training and Testing Dataset](https://github.com/vzhou842/easy-VQA)
 
+> Demo: [Host Link](https://mohityogesh44-earlyfusion-on-easyvqa-app-dfqz6l.streamlitapp.com/)
+
 **Note:The model demonstrated here is EarlyFusion one from the video.**
