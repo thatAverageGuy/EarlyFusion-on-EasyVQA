@@ -6,4 +6,5 @@ This repository contains the streamlit demo for the Episode 1 of Vision Language
 
 > Original Reference: [Training Notebook](https://github.com/PrithivirajDamodaran/vision-language-modelling-series)
 
-**Note:The model demonstrated here is EarlyFusion model from the video.**
+> Dataset: [Training and Testing Dataset](https://github.com/vzhou842/easy-VQA)
+**Note:The model demonstrated here is EarlyFusion one from the video.**
