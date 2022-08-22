@@ -1,0 +1,10 @@
+0:what is the red shape?
+1:what is the color of the triangle?
+2:what is the color of the shape?
+3:does the image contain a circle?
+4:is there not a black shape in the image?
+5:does the image contain a green shape?
+6:is a green shape present?
+7:is there a blue shape in the image?
+8:is no blue shape present?
+9:is a yellow shape present?
